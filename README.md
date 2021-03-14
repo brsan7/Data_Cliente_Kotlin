@@ -8,5 +8,5 @@ Projeto usado para a testar:
 
 -------
 * **Desenvolvimento integrado de aplicações Android**  
-*Recepção de dados via ContentProvider, API e Notifications(notificações externas)*
+*Recepção de dados externos via ContentProvider, API e Notifications(push)*
 -------
