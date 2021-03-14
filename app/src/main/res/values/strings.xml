@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Data Cliente</string>
+    <string name="boasVindas">"Aplicativo Desenvolvido\n"
+                                "para\n"
+                                "Exemplificar o Consumo de\n"
+                                "Dados Externos\n"
+                                "e\n"
+                                "Push Notification\n\n"
+                                "Cada Item do Menu\n"
+                                "Representa um Exemplo de de\n"
+                                "Consumo de Dados Diferente"
+    </string>
+    <string name="toolBarTitleMain">Data Cliente Exemplos</string>
+    <string name="toolBarTitleImcCliente">IMC Cliente</string>
+    <string name="hintRecyclerViewImcClient">Dados Fornecidos Pelo Projeto IMC_Kotlin\nPor Meio do ContentProvider</string>
+    <string name="constDataImcClientItem">"Data: "</string>
+    <string name="constHoraImcClientItem">"Hora: "</string>
+    <string name="constPesoImcClientItem">"Peso: "</string>
+    <string name="toolBarTitleApiCliente">Api Cliente</string>
+    <string name="hintRecyclerViewApiClient">"Dados Fornecidos Pela URL:\n"
+        "https://uniqueandrocode.000webhostapp.com/hiren/androidtutorial/mycart/getdata.php"</string>
+</resources>
